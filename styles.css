@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+
+}
+.form{
+    background-color: rgba(240, 255, 255, 0.879);
+}
+#search{
+    color:rgb(244, 254, 244) ;
+}
+input{
+background-color:black;
+}
